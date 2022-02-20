@@ -1,8 +1,8 @@
-# React_Inshorts_Clone!
-## Introduction
+# React Inshorts Clone!
+## 📌Introduction
 * This is a News App Application which is a replica of famous shorts News App known as Inshorts and deployed on Netlify.
 
-## Environment Setup
+## 📌Environment Setup
 
   #### 1. Clone App
   
@@ -13,7 +13,7 @@
     $ git clone https://github.com/imbhavesh28/React_Inshorts_Clone.git     
   ```
     
- #### 2. Install node packages
+ #### 2. Install Node Packages
  
   * Move inside the cloned folder with name React_Inshorts_Clone.
   * Write the following command and press enter to download all required node modules.
